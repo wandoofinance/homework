@@ -9,7 +9,7 @@ Build a small p2p lending application similar to [swaper.com](https://swaper.com
 Technical requirements:
  - Java
  - Spring stack is preferred
- - rest api (no ui required, but will be considered as advantage)
+ - rest/graphql
  - application can be run with a single command (no installation of DB or whatever is required)
   
 What gets evaluated:
